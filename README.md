@@ -53,7 +53,8 @@ How to Run:
 
     curl --location 'https://ajwc1m7wy0.execute-api.us-east-1.amazonaws.com/greet?name=Pradeep'
 
-    ![Alt text](image.png)
+    <img width="1059" alt="image" src="https://github.com/user-attachments/assets/5054c06a-1ef1-45ec-a784-659f59f61c18">
+
 
 
 
