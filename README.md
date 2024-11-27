@@ -53,8 +53,9 @@ How to Run:
 
     curl --location 'https://ajwc1m7wy0.execute-api.us-east-1.amazonaws.com/greet?name=Pradeep'
 
-    <img width="1059" alt="image" src="https://github.com/user-attachments/assets/5054c06a-1ef1-45ec-a784-659f59f61c18">
+    
 
+<img width="1055" alt="Screenshot 2024-11-27 at 1 47 29 PM" src="https://github.com/user-attachments/assets/2d60133b-75e4-4372-befc-d4912d9125fb">
 
 
 
