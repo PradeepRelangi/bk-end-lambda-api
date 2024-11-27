@@ -38,6 +38,9 @@ How to Run:
             --handler main \
             --zip-file fileb://function.zip \
             --region us-east-1
+<img width="654" alt="Screenshot 2024-11-27 at 2 04 21 PM" src="https://github.com/user-attachments/assets/e47c3419-eac6-4825-8181-4b7a629b6bd1">
+
+
 
     Step 4:
     Create an API Gateway 
@@ -45,6 +48,10 @@ How to Run:
             --name "GoLambdaAPI" \
             --protocol-type HTTP \
             --target arn:aws:lambda:us-east-1:********:function:go-lambda-api
+
+<img width="683" alt="Screenshot 2024-11-27 at 2 01 41 PM" src="https://github.com/user-attachments/assets/c500dd54-2bd4-44ce-ac73-5a2fecec82e2">
+
+            
 
     Step 5:
     Test using Postman
@@ -55,7 +62,7 @@ How to Run:
 
     
 
-<img width="1055" alt="Screenshot 2024-11-27 at 1 47 29 PM" src="https://github.com/user-attachments/assets/2d60133b-75e4-4372-befc-d4912d9125fb">
+<img width="655" alt="Screenshot 2024-11-27 at 1 47 29 PM" src="https://github.com/user-attachments/assets/2d60133b-75e4-4372-befc-d4912d9125fb">
 
 
 
